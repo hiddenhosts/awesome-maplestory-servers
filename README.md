@@ -19,13 +19,11 @@
 > 以下列表按投票數排序，每日自動從 [HiddenHosts](https://hiddenhosts.com) 同步更新。
 
 <!-- SERVERS_START -->
+
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| ✨仙境谷M✨ | 2x | 2x | 1x | 3 | - | [詳情](https://hiddenhosts.com/server/m-1) |
-| 安扣谷 | 5x | 1x | 1x | 3 | - | [詳情](https://hiddenhosts.com/server/server-dw60t) |
-| 櫻花谷 | 30x | 3x | 1x | 3 | - | [詳情](https://hiddenhosts.com/server/server-gb3s1) |
-| 這是我的谷 | 1x | 1x | 1x | 3 | - | [詳情](https://hiddenhosts.com/server/server-8h37ri) |
-| 銘心刻谷2 | 1x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/server/2-4) |
+| 等待首次同步... | - | - | - | - | - | [查看全部](https://hiddenhosts.com/game/maplestory) |
+
 <!-- SERVERS_END -->
 
 > 🔗 查看所有楓之谷私服：[hiddenhosts.com/game/maplestory](https://hiddenhosts.com/game/maplestory)
