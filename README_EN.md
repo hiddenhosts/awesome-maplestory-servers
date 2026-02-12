@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hiddenhosts.com/en/maplestory">
+  <a href="https://hiddenhosts.com/en/game/maplestory">
     <img src="https://hiddenhosts.com/logo.png" alt="HiddenHosts" width="120" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 
 A curated list of MapleStory private servers, maintained by [HiddenHosts](https://hiddenhosts.com) and updated daily.
 
-> **📋 Want the full list?** Visit **[HiddenHosts - MapleStory Servers](https://hiddenhosts.com/en/maplestory)** for more servers with voting, ratings, and favorites.
+> **📋 Want the full list?** Visit **[HiddenHosts - MapleStory Servers](https://hiddenhosts.com/en/game/maplestory)** for more servers with voting, ratings, and favorites.
 
 ---
 
@@ -21,14 +21,10 @@ A curated list of MapleStory private servers, maintained by [HiddenHosts](https:
 <!-- SERVERS_START -->
 | Name | EXP Rate | Gold Rate | Drop Rate | Votes | Rating | Link |
 |------|----------|----------|----------|--------|------|------|
-| 這是我的谷 | 1x | 1x | 1x | 3 | - | [Details](https://hiddenhosts.com/en/maplestory/server-8h37ri) |
-| ✨仙境谷M✨ | 2x | 2x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/maplestory/m-1) |
-| 安扣谷 | 5x | 1x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/maplestory/server-dw60t) |
-| 櫻花谷 | 30x | 3x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/maplestory/server-gb3s1) |
-| 銘心刻谷2 | 1x | 1x | 1x | 0 | - | [Details](https://hiddenhosts.com/en/maplestory/2-4) |
+| Waiting for first sync... | - | - | - | - | - | [View all](https://hiddenhosts.com/en/game/maplestory) |
 <!-- SERVERS_END -->
 
-> 🔗 Browse all MapleStory servers: [hiddenhosts.com/en/maplestory](https://hiddenhosts.com/en/maplestory)
+> 🔗 Browse all MapleStory servers: [hiddenhosts.com/en/game/maplestory](https://hiddenhosts.com/en/game/maplestory)
 
 ---
 

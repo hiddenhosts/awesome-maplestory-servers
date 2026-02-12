@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hiddenhosts.com/tw/maplestory">
+  <a href="https://hiddenhosts.com/game/maplestory">
     <img src="https://hiddenhosts.com/logo.png" alt="HiddenHosts" width="120" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 
 精選楓之谷私服列表，由 [HiddenHosts](https://hiddenhosts.com) 維護並每日自動更新。
 
-> **📋 想看完整列表？** 前往 **[HiddenHosts - 楓之谷私服](https://hiddenhosts.com/tw/maplestory)** 查看更多伺服器，支援投票、評分和收藏功能。
+> **📋 想看完整列表？** 前往 **[HiddenHosts - 楓之谷私服](https://hiddenhosts.com/game/maplestory)** 查看更多伺服器，支援投票、評分和收藏功能。
 
 ---
 
@@ -21,14 +21,10 @@
 <!-- SERVERS_START -->
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| 這是我的谷 | 1x | 1x | 1x | 3 | - | [詳情](https://hiddenhosts.com/tw/maplestory/server-8h37ri) |
-| ✨仙境谷M✨ | 2x | 2x | 1x | 2 | - | [詳情](https://hiddenhosts.com/tw/maplestory/m-1) |
-| 安扣谷 | 5x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/tw/maplestory/server-dw60t) |
-| 櫻花谷 | 30x | 3x | 1x | 1 | - | [詳情](https://hiddenhosts.com/tw/maplestory/server-gb3s1) |
-| 銘心刻谷2 | 1x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/maplestory/2-4) |
+| 等待首次同步... | - | - | - | - | - | [查看全部](https://hiddenhosts.com/game/maplestory) |
 <!-- SERVERS_END -->
 
-> 🔗 查看所有楓之谷私服：[hiddenhosts.com/tw/maplestory](https://hiddenhosts.com/tw/maplestory)
+> 🔗 查看所有楓之谷私服：[hiddenhosts.com/game/maplestory](https://hiddenhosts.com/game/maplestory)
 
 ---
 
