@@ -21,11 +21,7 @@ A curated list of MapleStory private servers, maintained by [HiddenHosts](https:
 <!-- SERVERS_START -->
 | Name | EXP Rate | Gold Rate | Drop Rate | Votes | Rating | Link |
 |------|----------|----------|----------|--------|------|------|
-| ✨仙境谷M✨ | 2x | 2x | 1x | 3 | - | [Details](https://hiddenhosts.com/en/server/m-1) |
-| 安扣谷 | 5x | 1x | 1x | 3 | - | [Details](https://hiddenhosts.com/en/server/server-dw60t) |
-| 櫻花谷 | 30x | 3x | 1x | 3 | - | [Details](https://hiddenhosts.com/en/server/server-gb3s1) |
-| 這是我的谷 | 1x | 1x | 1x | 3 | - | [Details](https://hiddenhosts.com/en/server/server-8h37ri) |
-| 銘心刻谷2 | 1x | 1x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/server/2-4) |
+| Waiting for first sync... | - | - | - | - | - | [View all](https://hiddenhosts.com/en/game/maplestory) |
 <!-- SERVERS_END -->
 
 > 🔗 Browse all MapleStory servers: [hiddenhosts.com/en/game/maplestory](https://hiddenhosts.com/en/game/maplestory)
