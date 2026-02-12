@@ -45,7 +45,7 @@
 ### 其他遊戲私服列表
 
 - [Awesome Lineage Servers](https://github.com/hiddenhosts/awesome-lineage-servers) — 天堂私服列表
-- [Awesome RO Servers](https://github.com/hiddenhosts/awesome-ro-servers) — 仙境傳說私服列表
+- [Awesome Ragnarok Online Servers](https://github.com/hiddenhosts/awesome-ragnarok-online-servers) — 仙境傳說私服列表
 
 ---
 

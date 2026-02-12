@@ -45,7 +45,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ### Other Server Lists
 
 - [Awesome Lineage Servers](https://github.com/hiddenhosts/awesome-lineage-servers)
-- [Awesome RO Servers](https://github.com/hiddenhosts/awesome-ro-servers)
+- [Awesome Ragnarok Online Servers](https://github.com/hiddenhosts/awesome-ragnarok-online-servers)
 
 ---
 
