@@ -22,10 +22,10 @@
 
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| 銘心刻谷2 | 1x | 1x | 1x | 61 | - | [詳情](https://hiddenhosts.com/server/2-4) |
-| 這是我的谷 | 1x | 1x | 1x | 56 | - | [詳情](https://hiddenhosts.com/server/server-8h37ri) |
-| 櫻花谷 | 30x | 3x | 1x | 52 | - | [詳情](https://hiddenhosts.com/server/server-gb3s1) |
-| ✨仙境谷M✨ | 2x | 2x | 1x | 51 | - | [詳情](https://hiddenhosts.com/server/m-1) |
+| 銘心刻谷2 | 1x | 1x | 1x | 63 | - | [詳情](https://hiddenhosts.com/server/2-4) |
+| 這是我的谷 | 1x | 1x | 1x | 57 | - | [詳情](https://hiddenhosts.com/server/server-8h37ri) |
+| 櫻花谷 | 30x | 3x | 1x | 53 | - | [詳情](https://hiddenhosts.com/server/server-gb3s1) |
+| ✨仙境谷M✨ | 2x | 2x | 1x | 52 | - | [詳情](https://hiddenhosts.com/server/m-1) |
 | 安扣谷 | 5x | 1x | 1x | 51 | - | [詳情](https://hiddenhosts.com/server/server-dw60t) |
 
 <!-- SERVERS_END -->
