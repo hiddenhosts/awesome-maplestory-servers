@@ -22,7 +22,8 @@
 
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| 暫無伺服器資料 | - | - | - | - | - | [查看](https://hiddenhosts.com/game/maplestory) |
+| ✨仙境谷M✨ (1) | 2x | 2x | 1x | 0 | - | [詳情](https://hiddenhosts.com/server/m-1) |
+| 銘心刻谷2 (2) | 1x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/server/2-2) |
 
 <!-- SERVERS_END -->
 
