@@ -22,7 +22,7 @@ A curated list of MapleStory private servers, maintained by [HiddenHosts](https:
 
 | Name | EXP Rate | Gold Rate | Drop Rate | Votes | Rating | Link |
 |------|----------|----------|----------|--------|------|------|
-| 銘心刻谷2 (2) | 1x | 1x | 1x | 10 | - | [Details](https://hiddenhosts.com/en/server/2-2) |
+| 銘心刻谷2 (2) | 1x | 1x | 1x | 11 | - | [Details](https://hiddenhosts.com/en/server/2-2) |
 | ✨仙境谷M✨ (1) | 2x | 2x | 1x | 5 | - | [Details](https://hiddenhosts.com/en/server/m-1) |
 
 <!-- SERVERS_END -->
