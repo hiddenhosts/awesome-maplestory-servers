@@ -24,9 +24,9 @@
 |------|----------|----------|----------|--------|------|------|
 | 銘心刻谷2 | 1x | 1x | 1x | 29 | - | [詳情](https://hiddenhosts.com/server/銘心刻谷2) |
 | ✨仙境谷M✨ | 2x | 2x | 1x | 24 | - | [詳情](https://hiddenhosts.com/server/仙境谷m) |
+| 這是我的谷 | 1x | 1x | 1x | 3 | - | [詳情](https://hiddenhosts.com/server/這是我的谷) |
 | 櫻花谷 | 30x | 3x | 1x | 1 | - | [詳情](https://hiddenhosts.com/server/櫻花谷) |
 | 貓貓谷 | 200x | 5x | 2x | 1 | - | [詳情](https://hiddenhosts.com/server/貓貓谷) |
-| 這是我的谷 | 1x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/server/這是我的谷) |
 | 安扣谷 | 5x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/server/安扣谷) |
 
 <!-- SERVERS_END -->
