@@ -22,12 +22,12 @@
 
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| ✨仙境谷M✨ | 2x | 2x | 1x | 36 | - | [詳情](https://hiddenhosts.com/server/仙境谷m) |
+| ✨仙境谷M✨ | 2x | 2x | 1x | 37 | - | [詳情](https://hiddenhosts.com/server/仙境谷m) |
 | 銘心刻谷2 | 1x | 1x | 1x | 32 | - | [詳情](https://hiddenhosts.com/server/銘心刻谷2) |
-| 這是我的谷 | 1x | 1x | 1x | 15 | - | [詳情](https://hiddenhosts.com/server/這是我的谷) |
+| 這是我的谷 | 1x | 1x | 1x | 16 | - | [詳情](https://hiddenhosts.com/server/這是我的谷) |
 | 貓貓谷 | 200x | 5x | 2x | 12 | - | [詳情](https://hiddenhosts.com/server/貓貓谷) |
-| 櫻花谷 | 30x | 3x | 1x | 9 | - | [詳情](https://hiddenhosts.com/server/櫻花谷) |
-| 安扣谷 | 5x | 1x | 1x | 4 | - | [詳情](https://hiddenhosts.com/server/安扣谷) |
+| 櫻花谷 | 30x | 3x | 1x | 10 | - | [詳情](https://hiddenhosts.com/server/櫻花谷) |
+| 安扣谷 | 5x | 1x | 1x | 5 | - | [詳情](https://hiddenhosts.com/server/安扣谷) |
 
 <!-- SERVERS_END -->
 
