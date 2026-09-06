@@ -22,12 +22,12 @@ A curated list of MapleStory private servers, maintained by [HiddenHosts](https:
 
 | Name | EXP Rate | Gold Rate | Drop Rate | Votes | Rating | Link |
 |------|----------|----------|----------|--------|------|------|
-| ✨仙境谷M✨ | 2x | 2x | 1x | 39 | - | [Details](https://hiddenhosts.com/en/server/仙境谷m) |
+| ✨仙境谷M✨ | 2x | 2x | 1x | 40 | - | [Details](https://hiddenhosts.com/en/server/仙境谷m) |
 | 銘心刻谷2 | 1x | 1x | 1x | 35 | - | [Details](https://hiddenhosts.com/en/server/銘心刻谷2) |
 | 這是我的谷 | 1x | 1x | 1x | 19 | - | [Details](https://hiddenhosts.com/en/server/這是我的谷) |
-| 貓貓谷 | 200x | 5x | 2x | 13 | - | [Details](https://hiddenhosts.com/en/server/貓貓谷) |
+| 貓貓谷 | 200x | 5x | 2x | 15 | - | [Details](https://hiddenhosts.com/en/server/貓貓谷) |
 | 櫻花谷 | 30x | 3x | 1x | 11 | - | [Details](https://hiddenhosts.com/en/server/櫻花谷) |
-| 安扣谷 | 5x | 1x | 1x | 5 | - | [Details](https://hiddenhosts.com/en/server/安扣谷) |
+| 安扣谷 | 5x | 1x | 1x | 7 | - | [Details](https://hiddenhosts.com/en/server/安扣谷) |
 
 <!-- SERVERS_END -->
 
